@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+.uuid
+.HA_VERSION
+home-assistant.*
+home-assistant_*
+secrets.yaml
+deps
+tts
