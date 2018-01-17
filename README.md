@@ -1,0 +1,2 @@
+Home Assistant Config [![Build Status](https://travis-ci.org/masarliev/home-assistant-config.svg?branch=master)](https://travis-ci.org/masarliev/home-assistant-config)
+===================================
