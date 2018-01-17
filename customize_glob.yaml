@@ -1,0 +1,21 @@
+"*.*":
+  custom_ui_state_card: state-card-custom-ui
+
+sensor.temperature_*:
+  unit_of_measurement: "°C"
+sensor.humidity_*:
+  unit_of_measurement: "%"
+
+switch.*:
+  assumed_state: true
+
+group.all_*:
+  hidden: true
+
+binary_sensor.*_motion:
+  device_class: motion
+
+
+device_tracker.*:
+  state_card_mode: badges
+  show_last_changed: true

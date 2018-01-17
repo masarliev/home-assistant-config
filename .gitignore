@@ -7,3 +7,5 @@ home-assistant_*
 secrets.yaml
 deps
 tts
+www/custom_ui/
+custom_components/customizer/
